@@ -6,13 +6,13 @@ The OpenTransit Wiki is currently the primary means of documenting the project.
 
 #Main Page- http://carfreemaine.github.io/opentransitwiki/
     
- ##Open Standards- https://github.com/carfreemaine/opentransitwiki/wiki/Open-Standards
+##Open Standards- https://github.com/carfreemaine/opentransitwiki/wiki/Open-Standards
  
- ##Open Hardware-https://github.com/carfreemaine/opentransitwiki/wiki/Open-Hardware
+##Open Hardware-https://github.com/carfreemaine/opentransitwiki/wiki/Open-Hardware
    
-   ###Open Transit Display Projects Listing-https://github.com/carfreemaine/opentransitwiki/wiki/Open-Hardware-Transit-Information-Displays
+###Open Transit Display Projects Listing-https://github.com/carfreemaine/opentransitwiki/wiki/Open-Hardware-Transit-Information-Displays
  
- ##Open Software- https://github.com/carfreemaine/opentransitwiki/wiki/Open-Software
+##Open Software- https://github.com/carfreemaine/opentransitwiki/wiki/Open-Software
  
- ##Open Platforms-https://github.com/carfreemaine/opentransitwiki/wiki/Open-Platforms
+##Open Platforms-https://github.com/carfreemaine/opentransitwiki/wiki/Open-Platforms
 
